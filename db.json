@@ -1,86 +1,9 @@
 {
   "Room": [
-    {
-      "id": "bb0e",
-      "number": "4H",
-      "qty": "2",
-      "location": "Dãy B",
-      "date": "2024-04-03",
-      "roomcharge": "1000000",
-      "wifi": "true",
-      "cable": false,
-      "electric": "99",
-      "status": "true"
-    },
-    {
-      "id": "1a2c",
-      "number": "4F",
-      "qty": "1",
-      "location": "Dãy A",
-      "date": "2024-04-08",
-      "roomcharge": "1200000",
-      "wifi": "true",
-      "cable": false,
-      "electric": "202",
-      "status": "true"
-    }
+    
   ],
   "Profile": [
-    {
-      "id": "97d4",
-      "room": "1A",
-      "name": "Nguyễn Hải Đăng",
-      "birth": "1995-11-11",
-      "location": "Hóc Môn",
-      "phone": "0908799042",
-      "sex": "Nam",
-      "cccd": "025421428",
-      "work": "Nhân viên"
-    },
-    {
-      "id": "1555",
-      "room": "1A",
-      "name": "Nguyễn Nhật Đăng",
-      "birth": "1995-11-11",
-      "location": "Hóc Môn",
-      "phone": "0944218632",
-      "sex": "Nữ",
-      "cccd": "024532162",
-      "work": "Sinh viên"
-    },
-    {
-      "name": "Trần Thị Mỹ Hạnh",
-      "room": "2A",
-      "birth": "1966-12-13",
-      "location": "Hóc Môn",
-      "phone": "038565623",
-      "sex": "Nữ",
-      "cccd": "02546321",
-      "work": "Nội Trợ",
-      "id": "3ca9"
-    },
-    {
-      "id": "2cec",
-      "room": "3F",
-      "name": "Nguyễn Hải Đăng",
-      "birth": "",
-      "location": "",
-      "phone": "",
-      "sex": "Nam",
-      "cccd": "",
-      "work": ""
-    },
-    {
-      "name": "Nguyễn Minh",
-      "room": "2A",
-      "birth": "",
-      "location": "",
-      "phone": "",
-      "sex": "Nam",
-      "cccd": "025421428",
-      "work": "",
-      "id": "b1a0"
-    }
+    
   ],
   "Service": [
     {
